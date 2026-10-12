@@ -68,4 +68,4 @@ st.pyplot(fig)
 # Thông tin người tạo ở cuối trang
 st.markdown("---")
 st.markdown("<p style='font-size: small; color: gray;'>Người tạo: [Phạm Đăng Quốc Huy] - MSSV: [046208009248]</p>", unsafe_allow_html=True)
-```[cite: 2]
+
